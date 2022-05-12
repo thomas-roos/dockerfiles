@@ -3,10 +3,10 @@ This repo is to share docker files for random purpose - usually yocto build demo
 
 ## general usage
 
-### build
+### build docker container
 `build -t yocto-build`
 
-### run
+### run docker container
 `docker run -it yocto-build`
 
 ### build yocto
