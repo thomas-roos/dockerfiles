@@ -15,4 +15,4 @@ If not specified different.
 
 `source poky/oe-init-build-env`
 
-`bitbake XXX`
+`bitbake aws-lc`
