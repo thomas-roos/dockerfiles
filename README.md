@@ -11,6 +11,6 @@ If not specified different.
 `docker run -it thomas-roos/yocto-build`
 
 ### build yocto
-`cd yocto
-source poky/oe-init-build-env 
-bitbake XXX`
+`cd yocto`
+`source poky/oe-init-build-env`
+`bitbake XXX`
