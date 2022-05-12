@@ -5,10 +5,10 @@ This repo is to share docker files for random purpose - usually yocto build demo
 If not specified different.
 
 ### build
-`build -t thomas-roos/yocto-build`
+`build -t yocto-build`
 
 ### run
-`docker run -it thomas-roos/yocto-build`
+`docker run -it yocto-build`
 
 ### build yocto
 `cd yocto`
