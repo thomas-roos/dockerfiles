@@ -1,8 +1,7 @@
 # dockerfiles
 This repo is to share docker files for random purpose - usually yocto build demos
 
-## usage
-If not specified different.
+## general usage
 
 ### build
 `build -t yocto-build`
