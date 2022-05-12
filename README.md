@@ -12,5 +12,7 @@ If not specified different.
 
 ### build yocto
 `cd yocto`
+
 `source poky/oe-init-build-env`
+
 `bitbake XXX`
